@@ -37,7 +37,7 @@ Admin/root access (for capturing real-time packets)
 
 📁 Files
 
-PRODIGY_CyberSec_Task05_PacketSniffer.ipynb: Full implementation and result.
+Packet_Sniffer.ipynb: Full implementation and result.
 
 
 
